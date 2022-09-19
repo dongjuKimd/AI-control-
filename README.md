@@ -3,9 +3,9 @@
 :wave: 안녕하세요
 ---
 
-  <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/cowkite" target="_blank"><img src="https://img.shields.io/badge/-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
-  <a href="mailto:iscowkite@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-1DA1F2?style=flat-square&logo=Twitter&logoColor=white"/></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 
 
