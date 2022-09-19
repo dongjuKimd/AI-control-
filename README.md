@@ -21,10 +21,10 @@
 - 게임
 ---
 
+### :bulb: 취득한 자격증
+- 생산자동화 기능사
+- 컴퓨터 응용선반 기능사
 
-### ⚡ 자격증 
--생산자동화 기능사
--컴퓨터 응용선반
 ---
 ### :cyclone: 현재 배우는 언어 
 ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-0696D7?style=plastic&logo=Python&logoColor=white)
