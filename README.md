@@ -1,5 +1,7 @@
-:wave:안녕하세요
----
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=438CB5&height=300&section=header&text=Wellcome&fontSize=90&fontColor=FFFFFF)
+
+
 제 이름은 김동주이고 이번 수업에서 상중하 중에서 중이라도 받고 싶습니다
 만약 상을 주신다면 정말로 열심히 수업에 임하겠습니다
 
@@ -31,13 +33,24 @@
 ---
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FdongjuKimd&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![김동주's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-dongju&show_icons=true&theme=radical)
+![김동주's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-dongju&show_icons=true&theme=radical)\
+---
+그 외의 언어들
+
+<img src="http://mazandi.herokuapp.com/api?handle={java}&theme=warm"/><img src="http://mazandi.herokuapp.com/api?handle={c#}&theme=cold"/>
+<img src="http://mazandi.herokuapp.com/api?handle={c++}&theme=dark"/>
+
+
+
+
 ---
 
 
 ### :mailbox_with_mail: 연락처
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dongju0320@gmail.com)](mailto:dongju0320@gmail.com) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://)](https://www.facebook.com/)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:rlaehdwn0320@naver.com)](mailto:rlaehdwn0320@naver.com)
+
+
 
 
 
